@@ -3,10 +3,10 @@
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
-        <option value="$PROJECT_DIR$/PhotoAppDiscoveryService/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppApiAccountManagement/pom.xml" />
         <option value="$PROJECT_DIR$/ZuulApiGateway/pom.xml" />
+        <option value="$PROJECT_DIR$/PhotoAppDiscoveryService/pom.xml" />
       </list>
     </option>
   </component>

@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" filepath="$PROJECT_DIR$/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZuulApiGateway/ZuulApiGateway.iml" filepath="$PROJECT_DIR$/ZuulApiGateway/ZuulApiGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/microservices-demo.iml" filepath="$PROJECT_DIR$/microservices-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoAppApiUsers/photo-app-api-users.iml" filepath="$PROJECT_DIR$/PhotoAppApiUsers/photo-app-api-users.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PhotoAppApiAccountManagement/photoapp-api-account-management.iml" filepath="$PROJECT_DIR$/PhotoAppApiAccountManagement/photoapp-api-account-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZuulApiGateway/zuul-api-gateway.iml" filepath="$PROJECT_DIR$/ZuulApiGateway/zuul-api-gateway.iml" />
     </modules>
   </component>
 </project>

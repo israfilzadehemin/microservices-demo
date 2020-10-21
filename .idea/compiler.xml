@@ -8,16 +8,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PhotoAppApiAccountManagement" />
+        <module name="photoapp-api-account-management" />
+        <module name="zuul-api-gateway" />
+        <module name="ZuulApiGateway" />
+        <module name="photo-app-api-users" />
         <module name="PhotoAppDiscoveryService" />
         <module name="PhotoAppApiUsers" />
-        <module name="ZuulApiGateway" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="PhotoAppApiAccountManagement" target="1.8" />
-      <module name="PhotoAppApiUsers" target="1.8" />
+      <module name="photo-app-api-users" target="1.8" />
+      <module name="photoapp-api-account-management" target="1.8" />
+      <module name="PhotoAppApiAccountManagement" target="8" />
+      <module name="PhotoAppApiUsers" target="8" />
       <module name="PhotoAppDiscoveryService" target="1.8" />
-      <module name="ZuulApiGateway" target="1.8" />
+      <module name="zuul-api-gateway" target="1.8" />
+      <module name="ZuulApiGateway" target="8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -26,6 +32,9 @@
       <module name="PhotoAppApiUsers" options="-parameters" />
       <module name="PhotoAppDiscoveryService" options="-parameters" />
       <module name="ZuulApiGateway" options="-parameters" />
+      <module name="photo-app-api-users" options="-parameters" />
+      <module name="photoapp-api-account-management" options="-parameters" />
+      <module name="zuul-api-gateway" options="-parameters" />
     </option>
   </component>
 </project>
