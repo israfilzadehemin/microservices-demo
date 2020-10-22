@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/PhotoAppApiAccountManagement/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhotoAppApiConfigServer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotoAppApiUsers/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PhotoAppDiscoveryService/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ZuulApiGateway/src/main/java" charset="UTF-8" />
