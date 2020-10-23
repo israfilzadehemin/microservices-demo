@@ -15,19 +15,18 @@
         <module name="ZuulApiGateway" />
         <module name="photo-app-api-users" />
         <module name="PhotoAppDiscoveryService" />
-        <module name="PhotoAppApiUsers" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="config-server" target="1.8" />
       <module name="photo-app-api-users" target="1.8" />
       <module name="photoapp-api-account-management" target="1.8" />
-      <module name="PhotoAppApiAccountManagement" target="8" />
+      <module name="PhotoAppApiAccountManagement" target="1.8" />
       <module name="PhotoAppApiConfigServer" target="1.8" />
-      <module name="PhotoAppApiUsers" target="8" />
+      <module name="PhotoAppApiUsers" target="1.8" />
       <module name="PhotoAppDiscoveryService" target="1.8" />
       <module name="zuul-api-gateway" target="1.8" />
-      <module name="ZuulApiGateway" target="8" />
+      <module name="ZuulApiGateway" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">

@@ -28,6 +28,7 @@ public class WebSecurity extends WebSecurityConfigurerAdapter {
                 .antMatchers(HttpMethod.POST, "/users-ws/users/login").permitAll()
                 .antMatchers(HttpMethod.POST, "/users-ws/users").permitAll()
                 .antMatchers(HttpMethod.POST, "/users-ws/h2-console/**").permitAll()
+                .antMatchers(HttpMethod.GET, "/actuator/*").permitAll()
                 .anyRequest().authenticated()
                 .and()
                 .addFilter(new AuthorizationFilter(authenticationManager(), environment))

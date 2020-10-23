@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PhotoAppApiAccountManagement/PhotoAppApiAccountManagement.iml" filepath="$PROJECT_DIR$/PhotoAppApiAccountManagement/PhotoAppApiAccountManagement.iml" />
-      <module fileurl="file://$PROJECT_DIR$/PhotoAppApiUsers/PhotoAppApiUsers.iml" filepath="$PROJECT_DIR$/PhotoAppApiUsers/PhotoAppApiUsers.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" filepath="$PROJECT_DIR$/PhotoAppDiscoveryService/PhotoAppDiscoveryService.iml" />
       <module fileurl="file://$PROJECT_DIR$/ZuulApiGateway/ZuulApiGateway.iml" filepath="$PROJECT_DIR$/ZuulApiGateway/ZuulApiGateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhotoAppApiConfigServer/config-server.iml" filepath="$PROJECT_DIR$/PhotoAppApiConfigServer/config-server.iml" />

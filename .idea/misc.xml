@@ -7,8 +7,8 @@
         <option value="$PROJECT_DIR$/ZuulApiGateway/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppDiscoveryService/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppConfigServer/pom.xml" />
-        <option value="$PROJECT_DIR$/PhotoAppApiConfigServer/pom.xml" />
         <option value="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml" />
+        <option value="$PROJECT_DIR$/PhotoAppApiConfigServer/pom.xml" />
       </list>
     </option>
   </component>
